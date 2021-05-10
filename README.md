@@ -12,6 +12,12 @@ This was not the end of my journey since I was infatuated with data science thro
 
 My hobbies are sports, reading, walking and working out, swimming and instrumental and concentration music.
 
+## 📬 Get in touch
+
+- Web: [pouryamansouri.com][1]
+- LinkedIn: [linkedin.com/in/pouryamansouri/][2]
+- Twitter: [twitter.com/pourya_mansouri][3]
+
 ## 🤜🏻🤛🏻 Support Me
 
 You can support me and [buy me a coffee][8], if you want. 🙏🏻
@@ -28,5 +34,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 </a>
 
 
-
+[1]: https://www.pouryamansouri.com/
+[2]: https://www.linkedin.com/in/pouryamansouri/
+[3]: https://twitter.com/intent/follow?screen_name=pourya_mansouri
 [8]: https://www.buymeacoffee.com/pouryamansouri
