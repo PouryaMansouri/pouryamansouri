@@ -1,4 +1,4 @@
-# pouryamansouri
+# Pourya Mansouri
 
 Hey 👋🏻,
 
@@ -12,6 +12,11 @@ This was not the end of my journey since I was infatuated with data science thro
 
 My hobbies are sports, reading, walking and working out, swimming and instrumental and concentration music.
 
+## 🤜🏻🤛🏻 Support Me
+
+You can support me and [buy me a coffee][8], if you want. 🙏🏻
+
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/natterstefan/pouryamansouri">
@@ -21,3 +26,7 @@ My hobbies are sports, reading, walking and working out, swimming and instrument
 <a href="https://github.com/natterstefan/pouryamansouri">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pouryamansouri&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="natterstefan's GitHub Stats" />
 </a>
+
+
+
+[8]: https://www.buymeacoffee.com/pouryamansouri
