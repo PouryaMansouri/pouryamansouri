@@ -14,9 +14,9 @@ My hobbies are sports, reading, walking and working out, swimming and instrument
 - LinkedIn: [linkedin.com/in/pouryamansouri/][2]
 - Twitter: [twitter.com/pourya_mansouri][3]
 
-## 🤜🏻🤛🏻 Support Me
+## GitHub Profile Trophy
 
-You can support me and [buy me a coffee][8], if you want. 🙏🏻
+[![trophy](https://github-profile-trophy.vercel.app/?username=PouryaMansouri)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## &#x1f4c8; My GitHub Stats
@@ -35,3 +35,8 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 [2]: https://www.linkedin.com/in/pouryamansouri/
 [3]: https://twitter.com/intent/follow?screen_name=pourya_mansouri
 [8]: https://www.buymeacoffee.com/pouryamansouri
+
+## 🤜🏻🤛🏻 Support Me
+
+You can support me and [buy me a coffee][8], if you want. 🙏🏻
+
