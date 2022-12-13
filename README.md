@@ -16,9 +16,8 @@ My hobbies are sports, reading, walking and working out, swimming and instrument
 
 ## GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PouryaMansouri)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=PouryaMansouri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## &#x1f4c8; My GitHub Stats
 
 
