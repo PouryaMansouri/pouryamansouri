@@ -20,7 +20,6 @@ In addition to my technical skills, I love sharing knowledge and helping others 
 
 ## 📬 Get in touch
 
-- Web: [pouryamansouri.com][1]
 - LinkedIn: [linkedin.com/in/pouryamansouri/][2]
 - Twitter: [twitter.com/pourya_mansouri][3]
 
